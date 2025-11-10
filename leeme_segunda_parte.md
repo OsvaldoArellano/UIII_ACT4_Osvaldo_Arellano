@@ -38,6 +38,7 @@ Si ya habías ejecutado las migraciones en la primera parte, el modelo Servicio 
 Bash
     
     python manage.py makemigrations
+    
     python manage.py migrate
     
 # 3. Ahora trabajamos con el MODELO: SERVICIOS
@@ -431,6 +432,7 @@ Luego, ejecuta las migraciones para asegurarte de que admin.py se actualice (aun
 Bash
 
     python manage.py makemigrations
+    
     python manage.py migrate
     
 # 11. Por lo pronto solo trabajar con “servicios” dejar pendiente # MODELO: VEHICULO
