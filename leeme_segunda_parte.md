@@ -206,8 +206,8 @@ app_Taller/views.py
     </div>
     </nav>
   
-  <!-- Bootstrap Icons CDN (opcional para iconos) -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <!-- Bootstrap Icons CDN (opcional para iconos) -->
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     
 # 6. Crear la subcarpeta carpeta servicio dentro de app_Taller\templates.
 Dentro de app_Taller/templates, crea una nueva carpeta llamada servicio.
